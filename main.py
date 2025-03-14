@@ -1,3 +1,5 @@
+# 필요한 라이브러리 import
+import numpy as np  # numpy 추가
 from log_collector import LogCollector
 from anomaly_detector import AnomalyDetector
 from response_handler import ResponseHandler

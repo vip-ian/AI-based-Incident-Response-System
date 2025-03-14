@@ -1,0 +1,6 @@
+kafka-python
+elasticsearch==7.10.2
+torch
+transformers
+slack-sdk
+requests
